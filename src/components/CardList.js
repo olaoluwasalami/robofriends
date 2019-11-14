@@ -23,8 +23,8 @@ const CardList = ({
 					/>
 				);
 			})
-		} <
-		/div>
+		} 
+		</div>
 	);
 }
 
